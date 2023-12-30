@@ -1,0 +1,34 @@
+body
+{
+    
+    background-color: #24353F;
+}
+input
+{
+    background-color: #24353F !important;
+    
+}
+h1
+{
+    color: rgb(23, 162, 184);
+    font-weight: 500;
+    font-size: 40px;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.x
+{
+    width: 65%;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+#warning
+{
+    color: red;
+}
